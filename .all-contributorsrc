@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "mataca9",
+      "name": "Matheus Streb Vieira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12275847?v=4",
+      "profile": "http://www.streb.com.br",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
       "login": "adrianlemess",
       "name": "adrianlemess",
       "avatar_url": "https://avatars2.githubusercontent.com/u/12432777?v=4",
