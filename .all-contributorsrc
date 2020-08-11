@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lucasvalenteds",
+      "name": "lucasvalenteds",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10524730?v=4",
+      "profile": "https://github.com/lucasvalenteds",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing-framework",
+  "projectOwner": "thiagopaiva99",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
