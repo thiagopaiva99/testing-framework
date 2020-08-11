@@ -1,0 +1,9 @@
+{
+  "name": "testing-framework",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node --require ./setup-globals.js ./src/test.spec.js"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
