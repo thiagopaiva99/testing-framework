@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "matheusmichels",
+      "name": "Matheus Michels",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26440619?v=4",
+      "profile": "https://bit.ly/2uOINQc",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing-framework",
+  "projectOwner": "thiagopaiva99",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
