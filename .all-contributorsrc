@@ -14,6 +14,46 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "matheusmichels",
+      "name": "Matheus Michels",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26440619?v=4",
+      "profile": "https://bit.ly/2uOINQc",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mataca9",
+      "name": "Matheus Streb Vieira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12275847?v=4",
+      "profile": "http://www.streb.com.br",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "adrianlemess",
+      "name": "adrianlemess",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/12432777?v=4",
+      "profile": "https://github.com/adrianlemess",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "thiagopaiva99",
+      "name": "Thiago Galvani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20430611?v=4",
+      "profile": "http://ilegra.com/",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
