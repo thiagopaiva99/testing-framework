@@ -14,6 +14,16 @@
         "code",
         "test"
       ]
+    },
+    {
+      "login": "thiagopaiva99",
+      "name": "Thiago Galvani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20430611?v=4",
+      "profile": "http://ilegra.com/",
+      "contributions": [
+        "code",
+        "test"
+      ]
     }
   ],
   "contributorsPerLine": 7,
