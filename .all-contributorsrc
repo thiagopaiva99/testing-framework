@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "matheusmichels",
+      "name": "Matheus Michels",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/26440619?v=4",
+      "profile": "https://bit.ly/2uOINQc",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
       "login": "mataca9",
       "name": "Matheus Streb Vieira",
       "avatar_url": "https://avatars3.githubusercontent.com/u/12275847?v=4",
