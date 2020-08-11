@@ -6,6 +6,16 @@
   "commit": false,
   "contributors": [
     {
+      "login": "lucasvalenteds",
+      "name": "lucasvalenteds",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/10524730?v=4",
+      "profile": "https://github.com/lucasvalenteds",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
       "login": "matheusmichels",
       "name": "Matheus Michels",
       "avatar_url": "https://avatars0.githubusercontent.com/u/26440619?v=4",
