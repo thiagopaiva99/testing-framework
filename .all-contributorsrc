@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "thiagopaiva99",
+      "name": "Thiago Galvani",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/20430611?v=4",
+      "profile": "http://ilegra.com/",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing-framework",
+  "projectOwner": "thiagopaiva99",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
