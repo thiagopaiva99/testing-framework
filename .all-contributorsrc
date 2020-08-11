@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mataca9",
+      "name": "Matheus Streb Vieira",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/12275847?v=4",
+      "profile": "http://www.streb.com.br",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "testing-framework",
+  "projectOwner": "thiagopaiva99",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
