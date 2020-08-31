@@ -11,10 +11,10 @@ This repository was made on a studies group with the purpose of create a testing
 - [x] describe;
 - [x] expect;
 - [x] toBe;
+- [x] not;
 
 ### Todo
 
-- [ ] not;
 - [ ] toBeTruthy
 - [ ] toBeFalsy
 - [ ] beforeEach
